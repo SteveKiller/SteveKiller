@@ -1,4 +1,4 @@
-https://i.imgur.com/5pnr9F1.jpeg
+
 
 YouTube:https://www.youtube.com/channel/UCo0...2TusdyTOLsrKPg
 
