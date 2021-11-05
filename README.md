@@ -47,7 +47,6 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCo09ulbQ72TusdyTOLsrKPg/videos)
 
----
 
 
 [discord]: https://discord.gg/sqc2RTH7px
