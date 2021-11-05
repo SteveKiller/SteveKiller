@@ -3,13 +3,13 @@
 
 
 
-## I'm a Code, Game cheat dev 😛
+## I'm a new Coder, Game cheat dev 😛
 
-- 🔭 You should go check out my [YouTube][youtube]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- You should go check out my [YouTube][youtube]
+- I’m currently learning everything 🤣
+- I’m love working with others on projects
+- 2021 Goals: Get 100 sub's on [YouTube][youtube] 🥺
+- Fun fact: I cheat not to make your life hard, but to make my easier 
 
 ### Connect with me:
 
@@ -96,7 +96,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCo09ulbQ72TusdyTOLsrKPg
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
