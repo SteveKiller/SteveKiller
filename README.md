@@ -22,7 +22,7 @@
 <img align="left" alt="C++" width="26px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />
 <img align="left" alt="IDA PRO" width="26px" src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fit/w_170%2Ch_209%2Cal_c/file.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
-<img align="left" alt="ARCH" width="26px" src="https://w7.pngwing.com/pngs/368/108/png-transparent-arch-linux-linux-distribution-installation-xfce-linux-text-triangle-logo.png" />
+<img align="left" alt="ARCH" width="26px" src="https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839MPA3861PT28D1007213252FS3937/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/arch-linux-logo-sticker.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
