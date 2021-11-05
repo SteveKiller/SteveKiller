@@ -9,7 +9,7 @@
 - I’m currently learning everything 🤣
 - I’m love working with others
 - 2021 Goals: Get 100 sub's on [YouTube][youtube] 🥺
-- Fun fact: I cheat not to make your life hard, but to make my easier ❤️
+- Fun fact: I cheat not to make your life hard, but to make mine easier ❤️
 
 ### Connect with me:
 
