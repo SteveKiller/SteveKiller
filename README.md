@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />
-<img align="left" alt="IDA PRO" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackers-arise.com%2Fpost%2F2017%2F06%2F22%2Freverse-engineering-malware-part-3-ida-pro-introduction&psig=AOvVaw3uv4CWEALjeGvL4X_JeVKa&ust=1636182094873000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjty7yWgfQCFQAAAAAdAAAAABAD" />
+<img align="left" alt="IDA PRO" width="26px" src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fit/w_170%2Ch_209%2Cal_c/file.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
