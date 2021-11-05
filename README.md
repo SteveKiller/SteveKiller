@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.gamingcypher.com/wp-content/uploads/2018/08/Discord-Icon-Gaming-Cypher.jpg" />][website]
+[<img align="left" alt="https://discord.gg/sqc2RTH7px" width="22px" src="https://www.gamingcypher.com/wp-content/uploads/2018/08/Discord-Icon-Gaming-Cypher.jpg" />][website]
 
 <br />
 
