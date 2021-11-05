@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka Stevekiller176 👋
+### Hi there, I'm Stevekiller176 👋
 
 
 
